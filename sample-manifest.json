@@ -1,0 +1,12 @@
+{
+  "export_job_id": "775fe572-3030-4063-aa03-519732d80241",
+  "id_short": 594905,
+  "published_at": "2026-04-13T19:47:02Z",
+  "repo_name": "white-space-finder-in-austin-round-rock-san-marcos-metro-texas-us-sample-594905",
+  "sample_asset_name": "beamstation_594905_food_and_drink-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/594905/beamstation_594905_food_and_drink-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
+  "sample_records": 4,
+  "sample_sha256": "1780b7d0941da5cbcfb01eedf985791efae274af3df2a830b88b63b5ab6bdf12",
+  "sample_size_bytes": 30023,
+  "total_records": 47
+}
