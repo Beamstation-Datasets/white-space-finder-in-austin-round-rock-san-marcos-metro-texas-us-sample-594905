@@ -9,9 +9,9 @@
 | Dataset ID | `594905` |
 | Location | Austin-Round Rock-San Marcos, TX |
 | Category | Restaurants |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-07T15:15:11.029734+00:00 |
+| Full dataset size | 44 records |
+| Free sample size | 4 records (9.09%) |
+| Last export | 2026-04-14T21:41:22.566877+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-austin-round-rock-san-marcos-metro-texas-us-sample-594905/releases/download/sample-latest/beamstation_594905_food_and_drink-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
