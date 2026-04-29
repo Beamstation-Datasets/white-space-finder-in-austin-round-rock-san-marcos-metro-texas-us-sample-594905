@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Austin-Round Rock-San Marcos, TX that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Austin-Round Rock-San Marcos (Metro), Texas, US",
-  "export_job_id": "560d3830-7484-486e-8ddf-a8c77f34a57c",
+  "export_job_id": "9dd73884-5ba1-42fa-add7-62a92233478b",
   "github_org": "Beamstation-Datasets",
   "id_short": 594905,
   "location_name": "Austin-Round Rock-San Marcos, TX",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-austin-round-rock-san-marcos-metro-texas-us-sample-594905",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/594905/beamstation_594905_food_and_drink-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
-  "sample_pct": 9.76,
+  "sample_pct": 8.33,
   "sample_records": 4,
-  "sample_sha256": "0ccb0cf05a3051984c4074104b3c4fec58f2d8a794749da300e4a55de2204118",
-  "sample_size_bytes": 31347,
-  "total_records": 41,
-  "updated_at": "2026-04-22T00:20:33.010221+00:00"
+  "sample_sha256": "0aa1e12742e3524931e7d277b76dadd023371dd383dd0adcfb6bbb41c071c262",
+  "sample_size_bytes": 29677,
+  "total_records": 48,
+  "updated_at": "2026-04-29T03:35:03.559470+00:00"
 }
